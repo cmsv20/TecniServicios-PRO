@@ -466,7 +466,7 @@ p.blog-text{
 .services-icon .fa:hover{
     padding: 0 10px 0 10px;
     color: white;
-    background: #00568ef;
+    background: #00568e;
     border-radius: 3px; 
     transition:.4s;  
 }
