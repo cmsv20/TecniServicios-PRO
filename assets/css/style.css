@@ -466,13 +466,13 @@ p.blog-text{
 .services-icon .fa:hover{
     padding: 0 10px 0 10px;
     color: white;
-    background: #00568ef;
+    background: #ffffff;
     border-radius: 3px; 
     transition:.4s;  
 }
 .services-group{
   padding: 10px;
-  background:#000000;
+  background:#00568ef;
   color: white;
 }
 .service-icon{
